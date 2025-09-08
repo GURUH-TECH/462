@@ -27,8 +27,8 @@ function randomMegaId(length = 6, numberLength = 4) {
 async function uploadCredsToMega(credsPath) {
     try {
         const storage = await new Storage({
-            email: 'palvinkibet46@gmail.com',
-            password: 'caseytech@2030'
+            email: 'digitalcreator463@gmail.com',
+            password: '@Akidah....,'
         }).ready;
         console.log('Mega storage initialized.');
         if (!fs.existsSync(credsPath)) {
@@ -114,7 +114,7 @@ router.get('/', async (req, res) => {
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
                                     newsletterJid: '120363302677217436@newsletter',
-                                    newsletterName: 'CASEYRHODES TECH 👻',
+                                    newsletterName: 'GURU TECH 😇',
                                     serverMessageId: 143
                                 }
                             }
@@ -133,16 +133,16 @@ ______________________________
 *💪 Empowering Your Experience with Caseyrhodes Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/caseyweb/CASEYRHODES-XMD
+🔗 https://github.com/GURUH-TECH/CRYPTIX-XMD
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
+https://whatsapp.com/channel/0029VbAaqOjLCoX3uQD1Ns3y
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://www.youtube.com/@caseyrhodes01
+🪄 YouTube Channel https://youtube.com/@1stguru454?si=amx9I7H7RiNWwn8X
 
-> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴛᴇᴄʜ
+> 
 *Together, we build the future of automation! 🚀*
 ______________________________
 
@@ -160,7 +160,7 @@ Don't Forget To Give Star⭐ To My Repo`;
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
                                     newsletterJid: '120363302677217436@newsletter',
-                                    newsletterName: 'CASWYRHODES TECH 🍀',
+                                    newsletterName: 'OFFICIALGURU TECH 😇',
                                     serverMessageId: 143
                                 }
                             }
